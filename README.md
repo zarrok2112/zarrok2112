@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zarrok</h1>
-<h3 align="center">A passionate backend developer,cybersecurity passionate,data engineer JR</h3>
+<h3 align="center">A passionate backend developer,cybersecurity, data engineer</h3>
 
 - 🔭 I’m currently working on **Opencode S.A**
 
