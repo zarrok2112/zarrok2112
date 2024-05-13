@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zarrok</h1>
 <h3 align="center">A passionate backend developer,cybersecurity, data engineer</h3>
 
-- 🔭 I have worked in companies like as **Opencode S.A, conecta salud, coomeva**
+- 🔭 I have worked in companies like as **Linnda* **Opencode S.A, conecta salud, coomeva**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
